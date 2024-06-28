@@ -1,0 +1,1 @@
+//define colors using in the app
