@@ -10,3 +10,7 @@ Blog base: https://www.eznxt.com/blog/ . Status: DRAFT. Category/tags: match an 
 | keka-alternatives-for-indian-startups.html | Keka Alternatives for Indian Startups: What Changes at 15, 50, and 100 Employees | keka-alternatives-for-indian-startups | Keka Alternatives for Indian Startups (2026 Pricing) | Keka's flat monthly fee stings at 15-30 employees. Compare EzNxT, Kredily, and Zoho People as Keka alternatives with real 2026 pricing. |
 
 Notes: the title is the H1, so it's NOT repeated in the body. Pricing claims (HubSpot/Zoho/Bitrix24/Freshsales/Keka) are as written in your drafts; I did not verify them.
+
+| zoho-alternatives-for-small-business-india.html | 5 Zoho Alternatives for Small Business in 2026 (And When Zoho Is Still Right) | zoho-alternatives-for-small-business-india | 5 Zoho Alternatives for Small Business in 2026 | Zoho One sprawls across 50+ apps and the cost climbs per app. Here are 4 real alternatives — EzNxT, HubSpot, Freshworks, Odoo — compared honestly. |
+
+Zoho post caveat: title says "5" but the body/meta cover 4 alternatives — decide whether to retitle.
